@@ -159,5 +159,5 @@ int main() {
 
 Output:
 
-<img width="1604" height="933" alt="image" src="https://github.com/user-attachments/assets/b10fa25f-e1a9-40b1-91cc-f88918875163" />
+<img width="447" height="250" alt="image" src="https://github.com/user-attachments/assets/d926ddf0-bc96-49e6-82e7-a7156a8cf006" />
 
